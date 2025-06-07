@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Swiss butterflies</title>
+    <link href="/style.css" rel="stylesheet" type="text/css" />   
+    <link href="lep_index.css" rel="stylesheet" type="text/css" />   
+    <link href='https://fonts.googleapis.com/css?family=Kite One' rel='stylesheet'>
+  </head>
+  <body>
+    <div>
+      <nav>        
+        <a href="../index.html" class="button right">Wildflowers</a>
+      </nav>
+ 
+    <header>
+      <h1>Butterflies of the Bernese Oberland</h1>
+    </header>
+    </div>
+    <br>
+    <section>
+      <!--Order based on the NABA's "Checklist and English names of North American Butterflies," circa 1999 -->
+        
+      <!-- Paplionidae -->
+      <article>
+        <a href="Parnassius_phoebus.html" >
+            <img src="../lep_previews/Parnassius_phoebus_PV.jpg" alt="Phoebus Apollo" title="Phoebus Apollo">
+        </a>
+      </article>
+      <article>
+        <a href="Parnassius_apollo.html" >
+            <img src="../lep_previews/Parnassius_apollo_PV.jpg" alt="Apollo" title="Apollo">
+        </a>
+      </article>        
+      <article>
+        <a href="Papilio_machaon.html" >
+            <img src="../lep_previews/Papilio_machaon_PV.jpg" alt="Old World Swallowtail" title="Old World Swallowtail">
+        </a>
+      </article>
+        
+        <!-- Whites and Sulphurs | Family Pieridae -->
+            <!-- Whites | Subfamily Pierinae -->
+                
+      <article>
+        <a href="Pontia_callidice.html" >
+            <img src="../lep_previews/Pontia_callidice_PV.jpg" alt="Peak White" title="Peak White">
+        </a>
+      </article> 
+      <article>
+        <a href="Pieris_brassicae.html" >
+            <img src="../lep_previews/Pieris_brassicae_PV.jpg" alt="Large Cabbage White" title="Large Cabbage White">
+        </a>
+      </article>
+      <article>
+        <a href="Pieris_bryoniae.html" >
+            <img src="../lep_previews/Pieris_bryoniae_PV.jpg" alt="Dark-veined White" title="Dark-veined White">
+        </a>
+      </article>
+      <article>
+        <a href="Pieris_mannii.html" >
+            <img src="../lep_previews/Pieris_mannii_PV.jpg" alt="Southern Small White" title="Southern Small White">
+        </a>
+      </article>
+      <article>
+        <a href="Pieris_napi.html" >
+            <img src="../lep_previews/Pieris_napi_PV.jpg" alt="Green-veined White" title="Green-veined White">
+        </a>
+      </article>
+      <article>
+        <a href="Pieris_rapae.html" >
+            <img src="../lep_previews/Pieris_rapae_PV.jpg" alt="Cabbage White" title="Cabbage White">
+        </a>
+      </article>
+      <article>
+        <a href="Aporia_crataegi.html" >
+            <img src="../lep_previews/Aporia_crataegi_PV.jpg" alt="Black-veined White" title="Black-veined White">
+        </a>
+      </article>
+        
+    <!-- Yellows and Sulphurs | Subfamily Coliadinae -->
+ 
+      <article>
+        <a href="Colias_croceus.html" >
+            <img src="../lep_previews/Colias_croceus_PV.jpg" alt="Clouded Yellow" title="Clouded Yellow">
+        </a>
+      </article>
+      <article>
+        <a href="Colias_palaeno.html" >
+            <img src="../lep_previews/Colias_palaeno_PV.png" alt="Moorland Clouded Yellow" title="Moorland Clouded Yellow">
+        </a>
+      </article>
+      <article>
+        <a href="Colias_phicomone.html" >
+            <img src="../lep_previews/Colias_phicomone_PV.png" alt="Mountain Clouded Yellow" title="Mountain Clouded Yellow">
+        </a>
+      </article>
+        
+    <!-- Gossamer-winged Butterflies Family Lycaenidae -->
+        <!-- Coppers | Subfamily Lycaeninae  -->                 
+      <article>
+        <a href="Lycaena_hippothoe.html" >
+            <img src="../lep_previews/Lycaena_hippothoe_PV.jpg" alt="Purple-edged Copper" title="Purple-edged Copper">
+        </a>
+      </article>       
+      <article>
+        <a href="Lycaena_phlaeas.html" >
+            <img src="../lep_previews/Lycaena_phlaeas_PV.jpg" alt="Small Copper" title="Small Copper">
+        </a>
+      </article>       
+      <article>
+        <a href="Lycaena_tityrus.html" >
+            <img src="../lep_previews/Lycaenus_tityrus_PV.png" alt="Sooty Copper" title="Sooty Copper">
+        </a>
+      </article>
+ 
+      <!-- Hairstreaks | Subfamily Theclinae -->
+        
+      <article>
+        <a href="Callophrys_rubi.html" >
+            <img src="../lep_previews/Callophrys_rubi_PV.jpg" alt="Green Hairstreak" title="Green Hairstreak">
+        </a>
+      </article>
+
+      <!-- Blues | Subfamily Polyommatinae -->        
+      <article>
+        <a href="Aricia_artaxerxes.html" >
+            <img src="../lep_previews/Aricia_artaxerxes_PV.jpg" alt="Northern Brown Argus" title="Northern Brown Argus">
+        </a>
+      </article>
+      <article>
+        <a href="Phengaris_arion.html" >
+            <img src="../lep_previews/Phengaris_arion_PV.jpg" alt="Large Blue" title="Large Blue">
+        </a>
+      </article>
+      <article>
+        <a href="Cyaniris_semiargus.html" >
+            <img src="../lep_previews/Cyaniris_semiargus_PV.jpg" alt="Mazarine Blue" title="Mazarine Blue">
+        </a>
+      </article>
+      <article>
+        <a href="Cupido_minimus.html" >
+            <img src="../lep_previews/Cupido_minimus_PV.jpg" alt="Small Blue" title="Small Blue">
+        </a>
+      </article>
+      <article>
+        <a href="Cupido_minimus.html" >
+            <img src="../lep_previews/Cupido_minimus_PV.jpg" alt="Small Blue" title="Small Blue">
+        </a>
+      </article>
+      
+Agriades orbitulus
+        Alpine Blue
+
+        
+        
+        working
+        
+    </section>
+  </body>
+</html>
